@@ -327,13 +327,7 @@ const SITE = {
       "meta": "Physician HELOC \u00b7 Scottsdale, AZ"
     }
   ],
-  "confetti": [
-    "#146a83",
-    "#4b93a8",
-    "#e0f0f4",
-    "#d4af37",
-    "#123240"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
