@@ -15,3 +15,9 @@
 1. Answer a few plain-English questions (about two minutes, no credit check).
 2. LoansForSurgeons matches the borrower with a licensed specialist for this exact situation.
 3. The specialist contacts the borrower within one business day; the match also arrives by email.
+
+## Related resources
+
+- [Jumbo loan requirements guide](https://lumolend.com/guides/jumbo-loan-requirements/) — LumoLend, an Honest Casa company
+- [Free DTI calculator](https://lumolend.com/tools/dti-calculator/) — LumoLend
+- [LumoLend](https://lumolend.com/) — price purchase, refinance, and HELOC scenarios with live indicative rates; free calculators and 40+ mortgage guides
